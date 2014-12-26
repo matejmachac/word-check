@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1415048446 source:c:\users\matìj\desktop\wordcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1415098480 source:c:\users\student\desktop\programy\wordcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
